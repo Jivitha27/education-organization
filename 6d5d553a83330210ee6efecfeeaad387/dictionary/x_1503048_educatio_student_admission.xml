@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a2a061b283730210ee6efecfeeaad36c" label="Student Admission" max_length="40" name="x_1503048_educatio_student_admission" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="100" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date of join" max_length="40" name="date_of_join" type="glide_date"/>
+    </element>
+</database>

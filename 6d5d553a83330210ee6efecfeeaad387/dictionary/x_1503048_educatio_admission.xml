@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ba5f8af683b30210ee6efecfeeaad365" extends="x_1503048_educatio_bright_future_education" label="Admission" max_length="40" name="x_1503048_educatio_admission" type="collection">
+        <element label="District" max_length="40" name="district" type="string"/>
+        <element label="Fee" max_length="20" name="fee" type="price"/>
+        <element label="Comments" max_length="255" name="comments" type="string_full_utf8"/>
+        <element choice="1" label="Admin Status" max_length="40" name="admin_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Rejected" sequence="4" value="rejected"/>
+                <element inactive_on_update="false" label="Join in progress" sequence="2" value="inprogress"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="7" value="cancelled"/>
+                <element inactive_on_update="false" label="New" sequence="1" value="new"/>
+                <element inactive_on_update="false" label="Closed" sequence="6" value="closed"/>
+                <element inactive_on_update="false" label="Joined" sequence="3" value="joined"/>
+                <element inactive_on_update="false" label="Rejoined" sequence="5" value="rejoined"/>
+            </choice>
+        </element>
+        <element label="Admission Number" max_length="32" name="admission_number" reference="x_1503048_educatio_bright_future_education" type="reference"/>
+        <element label="House No" max_length="40" name="house_no" type="string"/>
+        <element choice="1" label="Purpose of Join" max_length="40" name="purpose_of_join" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Teacher" sequence="3" value="teacher"/>
+                <element inactive_on_update="false" label="Coaching" sequence="2" value="coaching"/>
+                <element inactive_on_update="false" label="Tuition" sequence="1" value="tuition"/>
+            </choice>
+        </element>
+        <element choice="1" label="Pincode" max_length="40" name="pincode" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="502302" sequence="4" value="502302"/>
+                <element inactive_on_update="false" label="507303" sequence="1" value="507303"/>
+                <element inactive_on_update="false" label="522022" sequence="3" value="522022"/>
+                <element inactive_on_update="false" label="507306" sequence="2" value="507306"/>
+            </choice>
+        </element>
+        <element label="Area" max_length="40" name="area" type="string"/>
+        <element choice="1" label="School Area" max_length="40" name="school_area" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Near to SBI Bank" sequence="1" value="bank"/>
+                <element inactive_on_update="false" label="Near Bus Stand" sequence="2" value="busstand"/>
+            </choice>
+        </element>
+        <element choice="1" label="School" max_length="40" name="school" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="KKR Gowtham" sequence="1" value="kkr gowtham"/>
+                <element inactive_on_update="false" label="St.Marys" sequence="2" value="st marys"/>
+            </choice>
+        </element>
+        <element label="Mandal" max_length="40" name="mandal" type="string"/>
+        <element label="City" max_length="40" name="city" type="string"/>
+        <index name="index">
+            <element name="admission_number"/>
+        </index>
+    </element>
+</database>

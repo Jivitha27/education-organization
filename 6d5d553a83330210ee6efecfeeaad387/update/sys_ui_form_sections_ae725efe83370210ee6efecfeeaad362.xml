@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="ae725efe83370210ee6efecfeeaad362" sys_domain="global" table="x_1503048_educatio_admission" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 14:06:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6a725efe83370210ee6efecfeeaad366</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1503048_educatio_admission" name="x_1503048_educatio_admission" sys_domain="global" view="Default view">ae725efe83370210ee6efecfeeaad362</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1503048_educatio_admission" sys_domain="global" view="Default view">5e019e3683370210ee6efecfeeaad38f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 14:06:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 14:06:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66725efe83370210ee6efecfeeaad367</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1503048_educatio_admission" name="x_1503048_educatio_admission" sys_domain="global" view="Default view">ae725efe83370210ee6efecfeeaad362</sys_ui_form>
+            <sys_ui_section caption="School Details" display_value="School Details" name="x_1503048_educatio_admission" sys_domain="global" view="Default view">52725efe83370210ee6efecfeeaad361</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 14:06:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 14:06:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6e725efe83370210ee6efecfeeaad36a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1503048_educatio_admission" name="x_1503048_educatio_admission" sys_domain="global" view="Default view">ae725efe83370210ee6efecfeeaad362</sys_ui_form>
+            <sys_ui_section caption="Address" display_value="Address" name="x_1503048_educatio_admission" sys_domain="global" view="Default view">6e725efe83370210ee6efecfeeaad361</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 14:06:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1503048_educatio_admission</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 14:06:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ae725efe83370210ee6efecfeeaad362</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1503048_educatio_admission</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Education Organization" source="x_1503048_educatio">6d5d553a83330210ee6efecfeeaad387</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Education Organization">6d5d553a83330210ee6efecfeeaad387</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ae725efe83370210ee6efecfeeaad362</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 14:06:23</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

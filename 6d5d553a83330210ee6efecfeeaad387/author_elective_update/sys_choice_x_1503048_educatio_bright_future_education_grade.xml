@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="grade" table="x_1503048_educatio_bright_future_education" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>grade</element>
+            <name>x_1503048_educatio_bright_future_education</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 11:04:14</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>grade</sys_name>
+            <sys_package display_value="Education Organization" source="x_1503048_educatio">6d5d553a83330210ee6efecfeeaad387</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Education Organization">6d5d553a83330210ee6efecfeeaad387</sys_scope>
+            <sys_update_name>sys_choice_x_1503048_educatio_bright_future_education_grade</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 11:04:14</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>grade</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Nursary</label>
+            <language>en</language>
+            <name>x_1503048_educatio_bright_future_education</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 11:04:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 11:04:43</sys_updated_on>
+            <value>nursary</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>grade</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LKG</label>
+            <language>en</language>
+            <name>x_1503048_educatio_bright_future_education</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 11:04:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 11:05:01</sys_updated_on>
+            <value>lkg</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>grade</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UKG</label>
+            <language>en</language>
+            <name>x_1503048_educatio_bright_future_education</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 11:05:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 11:05:55</sys_updated_on>
+            <value>UKG</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>grade</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>I</label>
+            <language>en</language>
+            <name>x_1503048_educatio_bright_future_education</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 11:06:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 11:06:18</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>grade</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>II</label>
+            <language>en</language>
+            <name>x_1503048_educatio_bright_future_education</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 11:08:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 11:08:20</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>grade</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>III</label>
+            <language>en</language>
+            <name>x_1503048_educatio_bright_future_education</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 11:08:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 11:08:38</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>grade</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IV</label>
+            <language>en</language>
+            <name>x_1503048_educatio_bright_future_education</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 11:08:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 11:08:51</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>grade</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>V</label>
+            <language>en</language>
+            <name>x_1503048_educatio_bright_future_education</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 11:08:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 11:09:07</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>grade</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VI</label>
+            <language>en</language>
+            <name>x_1503048_educatio_bright_future_education</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 11:09:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 11:09:34</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>grade</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VII</label>
+            <language>en</language>
+            <name>x_1503048_educatio_bright_future_education</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 11:09:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 11:09:56</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>grade</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VIII</label>
+            <language>en</language>
+            <name>x_1503048_educatio_bright_future_education</name>
+            <sequence>11</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 11:10:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 11:10:18</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>grade</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IX</label>
+            <language>en</language>
+            <name>x_1503048_educatio_bright_future_education</name>
+            <sequence>12</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 11:10:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 11:10:46</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>grade</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>X</label>
+            <language>en</language>
+            <name>x_1503048_educatio_bright_future_education</name>
+            <sequence>13</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 11:10:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 11:11:00</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

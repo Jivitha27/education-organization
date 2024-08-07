@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-07 13:57:57</sys_created_on>
+        <sys_id>be80927e83370210ee6efecfeeaad3d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1503048_educatio_admission.x_1503048_educatio.admission_user</sys_name>
+        <sys_package display_value="Education Organization" source="x_1503048_educatio">6d5d553a83330210ee6efecfeeaad387</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Education Organization">6d5d553a83330210ee6efecfeeaad387</sys_scope>
+        <sys_security_acl display_value="x_1503048_educatio_admission">7e80927e83370210ee6efecfeeaad3d2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_be80927e83370210ee6efecfeeaad3d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-07 13:57:57</sys_updated_on>
+        <sys_user_role display_value="x_1503048_educatio.admission_user" name="x_1503048_educatio.admission_user">5e809afa83370210ee6efecfeeaad32a</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

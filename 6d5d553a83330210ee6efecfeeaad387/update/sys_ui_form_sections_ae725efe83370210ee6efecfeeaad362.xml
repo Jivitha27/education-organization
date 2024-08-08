@@ -3,16 +3,16 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-08-07 14:06:24</sys_created_on>
+            <sys_created_on>2024-08-08 17:31:23</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6a725efe83370210ee6efecfeeaad366</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>47fa449b83738210ee6efecfeeaad3e9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_1503048_educatio_admission" name="x_1503048_educatio_admission" sys_domain="global" view="Default view">ae725efe83370210ee6efecfeeaad362</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="x_1503048_educatio_admission" sys_domain="global" view="Default view">5e019e3683370210ee6efecfeeaad38f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_1503048_educatio_admission" sys_domain="global" view="Default view">72fa449b83738210ee6efecfeeaad33d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-08-07 14:06:24</sys_updated_on>
+            <sys_updated_on>2024-08-08 17:31:23</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>

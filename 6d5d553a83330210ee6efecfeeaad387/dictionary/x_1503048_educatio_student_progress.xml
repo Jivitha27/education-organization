@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f5fd009f83738210ee6efecfeeaad333" label="Student progress" max_length="40" name="x_1503048_educatio_student_progress" type="collection">
+        <element label="Admission No" max_length="32" name="admission_no" reference="x_1503048_educatio_bright_future_education" type="reference"/>
+        <element label="Maths" max_length="40" name="maths" type="string"/>
+        <element label="Science" max_length="40" name="science" type="string"/>
+        <element label="Hindi" max_length="40" name="hindi" type="string"/>
+        <element label="Social" max_length="40" name="social" type="string"/>
+        <element label="Telugu" max_length="40" name="telugu" type="string"/>
+        <element label="Average" max_length="40" name="average" type="string"/>
+        <element label="English" max_length="40" name="english" type="string"/>
+        <element label="Total" max_length="40" name="total" type="string"/>
+        <index name="index">
+            <element name="admission_no"/>
+        </index>
+    </element>
+</database>

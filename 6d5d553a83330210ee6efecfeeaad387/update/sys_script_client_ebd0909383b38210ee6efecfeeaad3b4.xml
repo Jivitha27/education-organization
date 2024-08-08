@@ -4,11 +4,11 @@
         <applies_extended>false</applies_extended>
         <condition/>
         <description/>
-        <field>admission_number</field>
+        <field>social</field>
         <global>true</global>
         <isolate_script>true</isolate_script>
         <messages/>
-        <name>Auto populate</name>
+        <name>Total</name>
         <order/>
         <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
    if (isLoading || newValue === '') {
@@ -16,42 +16,33 @@
    }
 
    //Type appropriate comment here, and begin script below
-   var ve = g_form.getReference('admission_number');
-   g_form.setValue('admin_date',ve.admin_date);
-   g_form.setValue('student_name',ve.student_name);
-   g_form.setValue('grade',ve.grade);
-   g_form.setValue('father_name',ve.father_name);
-   g_form.setValue('father_cell',ve.father_cell);
-   g_form.setValue('mother_name',ve.mother_name);
-   g_form.setValue('mother_cell',ve.mother_cell);
-
-
-   g_form.setDisabled('admin_date',true);
-   g_form.setDisabled('student_name',true);
-   g_form.setDisabled('grade',true);
-   g_form.setDisabled('father_name',true);
-   g_form.setDisabled('father_cell',true);
-   g_form.setDisabled('mother_name',true);
-   g_form.setDisabled('mother_cell',true);
-
+   var t = g_form.getValue('telugu');
+   var h = g_form.getValue('hindi');
+   var e = g_form.getValue('english');
+   var m = g_form.getValue('maths');
+   var sc = g_form.getValue('science');
+   var s = g_form.getValue('social');
+   var tl = t+h+r+m+sc+s;
+   g_form.setValue('total',tl);
+   
    
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-08-07 14:38:01</sys_created_on>
+        <sys_created_on>2024-08-08 17:59:10</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>5b5896f683770210ee6efecfeeaad399</sys_id>
-        <sys_mod_count>11</sys_mod_count>
-        <sys_name>Auto populate</sys_name>
+        <sys_id>ebd0909383b38210ee6efecfeeaad3b4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Total</sys_name>
         <sys_overrides/>
         <sys_package display_value="Education Organization" source="x_1503048_educatio">6d5d553a83330210ee6efecfeeaad387</sys_package>
         <sys_policy/>
         <sys_scope display_value="Education Organization">6d5d553a83330210ee6efecfeeaad387</sys_scope>
-        <sys_update_name>sys_script_client_5b5896f683770210ee6efecfeeaad399</sys_update_name>
+        <sys_update_name>sys_script_client_ebd0909383b38210ee6efecfeeaad3b4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-08-08 17:15:28</sys_updated_on>
-        <table>x_1503048_educatio_admission</table>
+        <sys_updated_on>2024-08-08 18:03:10</sys_updated_on>
+        <table>x_1503048_educatio_student_progress</table>
         <type>onChange</type>
         <ui_type>10</ui_type>
         <view/>
